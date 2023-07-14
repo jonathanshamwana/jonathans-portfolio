@@ -1,0 +1,16 @@
+.nav {
+    font-size: 16px;
+}
+
+.nav-item a {
+    color: black;
+}
+
+.hero-row {
+    height: 500px
+}
+
+.hero-heading {
+    font-size: 40px
+}
+
